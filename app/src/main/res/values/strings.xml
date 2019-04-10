@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApp</string>
+
+    <!-- activity_main.xml -->
+    <string name="activity_main_title">MENU</string>
+    <string name="activity_main_count_button_text">カウントダウン画面へ</string>
+
+    <!-- activity_count.xml -->
+    <string name="activity_count_transfer_count_dialog_button_text">カウントダウンダイアログ画面へ</string>
+
+</resources>
